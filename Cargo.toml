@@ -1,0 +1,9 @@
+[package]
+name = "audio-player"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.33.2"
+rodio = "0.21.1"
+egui = "0.33.2"
